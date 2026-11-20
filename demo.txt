@@ -14,3 +14,6 @@ this is now an update from my local machine. i successfully cloned the repo, fet
   this should NOT appear on main!!!!
 
   i am writing this message locally. i just wrote a message on the same lines remotely. let's attempt a merge conflict and resolve it.
+i am now attempting to create a conflict. i will make one adjustment here, then another locally. then try to fetch and pull the changes locally, and resolve the merge conflict.
+
+i just resolved my first merge conflict between my remote repo and my local repo!
