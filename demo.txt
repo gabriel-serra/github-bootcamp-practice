@@ -4,3 +4,5 @@ my goal:
   work locally on the same file by adding one line of text
   push that code to github successfully
   make a commit on this remote repo, then git fetch and git pull to my local machine
+
+this is a new line of code. i am testing to see what happens locally when i run git status into my Zsh shell prompt.
