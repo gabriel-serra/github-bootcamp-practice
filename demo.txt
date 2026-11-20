@@ -12,3 +12,5 @@ this is another line of code. i should now run git fetch origin wip then git sta
 this is now an update from my local machine. i successfully cloned the repo, fetched the changes, pulled into my working directory.
   now my next task is to save this change, then push it to the wip branch ONLY.
   this should NOT appear on main!!!!
+
+  i am writing this message locally. i just wrote a message on the same lines remotely. let's attempt a merge conflict and resolve it.
