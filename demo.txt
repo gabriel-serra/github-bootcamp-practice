@@ -1,0 +1,6 @@
+This is simply a demonstration for me to work through the recent lesson I went over on git and github bootcamp course.
+my goal:
+  clone this repo to my local machine
+  work locally on the same file by adding one line of text
+  push that code to github successfully
+  make a commit on this remote repo, then git fetch and git pull to my local machine
