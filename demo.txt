@@ -17,3 +17,5 @@ this is now an update from my local machine. i successfully cloned the repo, fet
 i am now attempting to create a conflict. i will make one adjustment here, then another locally. then try to fetch and pull the changes locally, and resolve the merge conflict.
 
 i just resolved my first merge conflict between my remote repo and my local repo!
+
+today's 21 november, 2026. this is a sample line of code. i'm going to pull this into my local machine. then i'm going to push code remotely, then merge to main so that the final product is i have changes on this remote repo, my local machine, and then i merge to main.
