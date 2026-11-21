@@ -20,4 +20,5 @@ i just resolved my first merge conflict between my remote repo and my local repo
 
 today's 21 november, 2026. this is a sample line of code. i'm going to pull this into my local machine. then i'm going to push code remotely, then merge to main so that the final product is i have changes on this remote repo, my local machine, and then i merge to main.
   i am writing this from my local machine. i successfully fetched and pulled the latest changes from the wip branch. i'm now going to push this to github on wip branch, then merge to main.
-  this is a commit from main on nov 21 2026. i want to see if code . on main branch will show this change and not on wip branch when i run git switch.
+  
+*** this is a commit from main on nov 21 2026. i want to see if code . on main branch will show this change and not on wip branch when i run git switch.
